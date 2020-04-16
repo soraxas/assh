@@ -5,9 +5,9 @@ go 1.14
 require (
 	github.com/Masterminds/goutils v1.1.0 // indirect
 	github.com/Masterminds/semver v1.5.0 // indirect
-	github.com/Masterminds/sprig v2.22.0+incompatible
+	github.com/Masterminds/sprig/v3 v3.1.0
 	github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d // indirect
-	github.com/awalterschulze/gographviz v0.0.0-20190522210029-fa59802746ab
+	github.com/awalterschulze/gographviz/v2/v2 v2.0.1
 	github.com/bugsnag/osext v0.0.0-20130617224835-0dd3f918b21b
 	github.com/deckarep/gosx-notifier v0.0.0-20180201035817-e127226297fb // indirect
 	github.com/docker/docker v1.13.1 // indirect
@@ -30,10 +30,10 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/shirou/gopsutil v2.20.2+incompatible
 	github.com/smartystreets/goconvey v1.6.4
-	github.com/spf13/cobra v0.0.6
+	github.com/spf13/cobra v1.0.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.6.2
-	github.com/urfave/cli v1.22.3
+	github.com/urfave/cli/v2/v2 v2.2.0
 	go.uber.org/zap v1.14.1
 	golang.org/x/crypto v0.0.0-20200323165209-0ec3e9974c59
 	golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e
